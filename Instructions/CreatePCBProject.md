@@ -8,5 +8,14 @@
 4. Click Create to create the project in our altium365 workspace
 5. Add your first schematic to the project.  Right click on your project file and hover add new to project.  Select Schematic.
 ![Screenshot 2024-08-28 150325](https://github.com/user-attachments/assets/531cc3bc-3bb5-45ea-b356-213f1bff9f99)
-7. This new schematic should be using the pre-existing CPBaja schematic template.
-
+7. This new schematic should be using the pre-existing CPR Baja schematic template.
+![Screenshot 2024-08-28 160026](https://github.com/user-attachments/assets/8d4cff5b-e92b-47ee-863b-fd803c98242e)
+![Screenshot 2024-08-28 160058](https://github.com/user-attachments/assets/ba16696d-c9cf-4c49-b1fd-f7dda99961bd)
+8. If this is not what your empty schematic looks like, you need to update your schematics to use this template.
+9. Click on panels at the bottom of you window and open up the properties tab.  Make sure you are in the schematic file and not selecting any components when you do so.
+10. Scroll down to the section titled Page Options and expand this section.
+11. Click on template and select the option for CPR Baja. This should open a pop-up titled Update Template  Note: You must be signed into the altium365 workspace to have access to this template.
+12. Select All schematic documents in the current project and Do not update paramaters.
+13. Click OK
+14. Verify that your schematic looks like the image above.
+15. You are all set to begin working on your schematic!
