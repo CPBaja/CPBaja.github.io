@@ -1,3 +1,3 @@
 #Instructions
 
-[Altium Project Setup](instructions.md)
+[Altium Project Setup](CreatePCBProject.md)
