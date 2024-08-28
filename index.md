@@ -1,4 +1,4 @@
 # CPBaja.github.io
 Information hub for Cal Poly Racing Baja electronics team
 
-[Instructions](instructions/instructions.md)
+[Instructions](Instructions/instructions.md)
