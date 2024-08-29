@@ -13,9 +13,12 @@
 ![Screenshot 2024-08-28 160058](https://github.com/user-attachments/assets/ba16696d-c9cf-4c49-b1fd-f7dda99961bd)
 8. If this is not what your empty schematic looks like, you need to update your schematics to use this template.
 9. Click on panels at the bottom of you window and open up the properties tab.  Make sure you are in the schematic file and not selecting any components when you do so.
+![Screenshot 2024-08-28 184720](https://github.com/user-attachments/assets/2eda397a-bd8c-4906-8ef1-68f50e43cccf)
 10. Scroll down to the section titled Page Options and expand this section.
+![Screenshot 2024-08-28 184943](https://github.com/user-attachments/assets/f435c237-3c17-4aea-b548-177554e4beac)
 11. Click on template and select the option for CPR Baja. This should open a pop-up titled Update Template  Note: You must be signed into the altium365 workspace to have access to this template.
 12. Select All schematic documents in the current project and Do not update paramaters.
+![Screenshot 2024-08-28 185040](https://github.com/user-attachments/assets/6c188213-fa8e-4937-bd1c-d13f1f42ec70)
 13. Click OK
-14. Verify that your schematic looks like the image above.
+14. Verify that your schematic looks like the schematic in the image above.
 15. You are all set to begin working on your schematic!
