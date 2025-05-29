@@ -1,4 +1,3 @@
 # Instructions
-
-[Altium Project Setup](CreatePCBProject.md)
-[PlatformIO Project Setup](CreatePlatformIOProject.md)
+* [Altium Project Setup](CreatePCBProject.md)
+* [PlatformIO Project Setup](CreatePlatformIOProject.md)
