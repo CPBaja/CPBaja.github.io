@@ -10,8 +10,9 @@ This page serves as your starting point for documentation, helpful resources, an
 
 Use the links below to quickly jump to key sections:
 
-- **[Tutorials](Tutorials/Tutorials.md)**: Guides and step-by-step instructions for setting up environments, working with microcontrollers, performing diagnostic tests, and handling specific software/hardware tasks.
-- **[Links](Links/Links.md)**: A collection of external resources, data sheets, organizational links, and necessary tools.
+- **[Setup Guides](SetUpGuides/SetUpGuides.md)**: Guides for setting up environments according to team standards.
+- **[Best Practices](BestPractices/BestPractices.md)**: Recommendations for code review, testing, and documentation.
+- **[Downloads](Downloads/Downloads.md)**: A collection of downloads for tools commonly used by the team.
 
 ---
 

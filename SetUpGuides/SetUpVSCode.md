@@ -48,17 +48,17 @@ These extensions provide language support, formatting, and essential tools for t
 2.  **Install Extensions:**
     - Search for each extension **Name** in the marketplace and click **Install**.
 
-| Name                     | Author    | Software or Firmware |
-| ------------------------ | --------- | -------------------- |
-| Angular Language Service | Angular   | Software             |
-| Black Formatter          | Microsoft | Both                 |
-| C/C++                    | Microsoft | Both                 |
-| ESLint                   | Microsoft | Software             |
-| Hex Editor               | Microsoft | Both                 |
-| Live Share               | Microsoft | Both                 |
-| PlatformIO IDE           | Microsoft | Firmware             |
-| Prettier                 | Microsoft | Software             |
-| Python                   | Microsoft | Both                 |
+| Name                     | Author     | Software or Firmware |
+| ------------------------ | ---------- | -------------------- |
+| Angular Language Service | Angular    | Software             |
+| Black Formatter          | Microsoft  | Both                 |
+| C/C++                    | Microsoft  | Both                 |
+| ESLint                   | Microsoft  | Software             |
+| Hex Editor               | Microsoft  | Both                 |
+| Live Share               | Microsoft  | Both                 |
+| PlatformIO IDE           | PlatformIO | Firmware             |
+| Prettier                 | Prettier   | Software             |
+| Python                   | Microsoft  | Both                 |
 
 # 4. Python/C++ Setup (Optional)
 
