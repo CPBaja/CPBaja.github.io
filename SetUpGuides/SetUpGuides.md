@@ -10,7 +10,7 @@ These guides cover the core tools needed to interact with our repositories, code
 
 - **[Set up GitHub Desktop](SetUpGitHubDesktop.md)**: Instructions for installing and configuring GitHub Desktop to clone and manage team repositories.
 - **[Set up VSCode](SetUpVSCode.md)**: Instructions for installing Visual Studio Code (VSCode) and configuring recommended settings and extensions for an optimal development environment.
-- **[Commit Standards](#CommitStandards.md)**: Best practices for writing clear, consistent, and meaningful commit messages.
+- **[Commit Standards](CommitStandards.md)**: Best practices for writing clear, consistent, and meaningful commit messages.
 
 ---
 

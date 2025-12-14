@@ -1,9 +1,18 @@
 # Best Practices
 
-These **Best Practices** are designed to guide our development process towards **clarity**, **efficiency**, and **maintainability**. By adhering to these standards, we aim to create more robust and scalable code that is easy to understand and maintain in the long term.
+These **Best Practices** define expectations for how we work within this repository. They are intended to promote clarity, efficiency, and long-term maintainability.
 
-## Practices
+## 1. Issue Management
 
-- **[Commit Standards](CommitStandards.md)**: Guidelines for consistent and readable commit messages.
-- **Variable Naming Conventions _(Coming Soon)_:** Best practices for naming variables (CamelCase, snake_case, and more).
-- **Code Formatting _(Coming Soon)_:** Rules for consistent code layout, including indentation and line length.
+- **[Starting an Issue](StartingAnIssue.md)**: Guide for assigning yourself to an issue and creating a linked branch.
+- **[Opening a Pull Request](OpeningAPullRequest.md)**: Guide for opening a pull request and assigning a reviewer.
+
+## 2. Coding Standards
+
+- **[Commit Standards](CommitStandards.md)**
+- **[Variable Naming Conventions](VariableNamingConventions.md)** _(Coming Soon)_
+- **[Code Formatting](CodeFormatting.md)** _(Coming Soon)_
+
+## 3. Rebasing and Merging to Main
+
+- **[Rebasing Guide](RebasingGuide.md)**: Guidance on keeping branches updated with `main`, resolving conflicts, and following preferred merge strategies.
