@@ -11,17 +11,17 @@ These **Best Practices** define expectations for how we work within this reposit
 - **[Figma Wireframe Tutorial](https://www.youtube.com/watch?v=iyrEStiTZh0)**: An intro to using Figma to design low-fidelity wireframes.
 - **[Figma Prototype Tutorial](https://www.youtube.com/watch?v=v1UKB-0EUhQ&list=PLKId0A0XCIbUYx3c_NYn13W9Z_kkIiA2m&index=6)**: Short tutorial for turning your wireframes into interactive prototypes.
 
-## 2. Issue Management
+## 3. Issue Management
 
 - **[Starting an Issue](StartingAnIssue.md)**: Guide for assigning yourself to an issue and creating a linked branch.
 - **[Opening a Pull Request](OpeningAPullRequest.md)**: Guide for opening a pull request and assigning a reviewer.
 
-## 3. Coding Standards
+## 4. Coding Standards
 
 - **[Commit Standards](CommitStandards.md)**
 - **[Variable Naming Conventions](VariableNamingConventions.md)** _(Coming Soon)_
 - **[Code Formatting](CodeFormatting.md)** _(Coming Soon)_
 
-## 4. Rebasing and Merging to Main
+## 5. Rebasing and Merging to Main
 
 - **[Rebasing Guide](RebasingGuide.md)**: Guidance on keeping branches updated with `main`, resolving conflicts, and following preferred merge strategies.
