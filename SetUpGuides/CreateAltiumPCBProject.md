@@ -1,13 +1,13 @@
 # Setting Up an Altium PCB Project
 
-This guide outlines the steps for creating a new PCB project within the **Cal Poly Racing Baja** Altium 365 workspace.
+This guide outlines the steps for creating a new PCB project within the **Cal Poly Baja** Altium 365 workspace.
 
 ---
 
 ## Creating the Project
 
 1.  **Sign in** to the Altium 365 workspace.
-2.  **Right-click** on the **Cal Poly Racing Baja** cloud workspace and select **Create Project...**
+2.  **Right-click** on the **Cal Poly Baja** cloud workspace and select **Create Project...**
     ![Screenshot 2024-08-27 184854](https://github.com/user-attachments/assets/1524b5b1-fbd7-42df-b00d-50737b7ab017)
 3.  **Name** your project, provide a **description** detailing the PCB's function, and **add the parameters** as shown in the image below.
     ![Screenshot 2024-08-28 022806](https://github.com/user-attachments/assets/b30aca63-69ca-4f44-ab1a-8b77811c4eb9)
@@ -41,7 +41,7 @@ If your schematic does **not** use the correct template, follow these steps to u
 2.  Scroll down to the **Page Options** section and **expand** it.
     ![Screenshot 2024-08-28 184943](https://github.com/user-attachments/assets/f435c237-3c17-4aea-b548-177554e4beac)
 3.  Click on **Template** and select the **CPR Baja** option.
-    - _Note: A pop-up titled **Update Template** will appear. You must be signed into the Altium 365 workspace to access this template._
+    - _Note: A pop-up titled **Update Template** will appear. You must be signed in to the Altium 365 workspace to access this template._
 4.  In the _Update Template_ pop-up, make the following selections:
     - Select **All schematic documents in the current project**.
     - Select **Do not update parameters**.

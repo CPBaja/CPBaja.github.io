@@ -1,6 +1,6 @@
 # 📚 Setup Guides
 
-This document serves as a comprehensive index of all setup guides, software configuration files, and key project documentation for the **Cal Poly Racing Baja Electronics Team**. It provides essential resources to help both new and existing team members quickly get up to speed with the team's development tools, standards, and hardware systems.
+This document serves as a comprehensive index of all setup guides, software configuration files, and key project documentation for **Cal Poly Baja SAE**. It provides essential resources to help both new and existing team members quickly get up to speed with the team's development tools, standards, and hardware systems.
 
 ---
 

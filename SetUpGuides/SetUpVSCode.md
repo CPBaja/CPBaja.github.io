@@ -49,7 +49,7 @@ These extensions provide language support, formatting, and essential tools for t
     - Search for each extension **Name** in the marketplace and click **Install**.
 
 | Name                     | Author     | Software or Firmware |
-| ------------------------ | ---------- | -------------------- |
+|--------------------------|------------|----------------------|
 | Angular Language Service | Angular    | Software             |
 | Black Formatter          | Microsoft  | Both                 |
 | C/C++                    | Microsoft  | Both                 |

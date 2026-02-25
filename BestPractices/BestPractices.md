@@ -4,7 +4,7 @@ These **Best Practices** define expectations for how we work within this reposit
 
 ## 1. Agile Development
 
-- **[Scrum in 10 minutes](https://www.youtube.com/watch?v=XU0llRltyFM&t=137s)**: A short video to introduce the Agile development framework and terminology.
+- **[Scrum in 10 minutes](https://youtu.be/XU0llRltyFM?si=1Sc1Ke8XUdoYGP9I)**: A short video to introduce the Agile development framework and terminology.
 
 ## 2. Prototyping
 

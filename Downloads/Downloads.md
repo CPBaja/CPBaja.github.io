@@ -1,17 +1,28 @@
 # Design Software & Tools
 
 ---
-
 ## **Software/Firmware Development**
 
-- **Visual Studio Code (VSCode) Download:** Popular, versatile code editor. [VSCode Download](https://code.visualstudio.com/download)
-- **Arduino IDE Download:** Integrated Development Environment for **Arduino** microcontrollers. [Arduino IDE Download](https://www.arduino.cc/en/software)
-- **STM32CubeIDE Download:** Official **STMicroelectronics** IDE for **STM32** microcontrollers. [STM32 Cube IDE Download](https://www.st.com/en/development-tools/stm32cubeide.html#st-get-software)
 - **Git Download:** The core version control system. [Git Download](https://git-scm.com/downloads)
 - **GitHub Desktop Download:** Simple graphical interface for Git and GitHub. [GitHub Desktop Download](https://desktop.github.com/download/)
-- **Git Extensions Download:** A powerful, open-source Git user interface. [Git Extensions Download](https://gitextensions.github.io/)
+- **Visual Studio Code (VSCode) Download:** Popular, versatile code editor. [VSCode Download](https://code.visualstudio.com/download)
 
 ---
+
+## **Software Development**
+
+- **JetBrains WebStorm Download:** Full-featured IDE for JavaScript and TypeScript development. [WebStorm Download](https://www.jetbrains.com/webstorm/download/)
+- **Docker Desktop Download:** Container platform for running local development services and environments. [Docker Download](https://www.docker.com/products/docker-desktop/)
+- **Node.js Download:** JavaScript runtime used for frontend applications and development tooling. [Node.js Download](https://nodejs.org/)
+
+---
+
+## **Firmware Development**
+- **Arduino IDE Download:** Integrated Development Environment for **Arduino** microcontrollers. [Arduino IDE Download](https://www.arduino.cc/en/software)
+- **STM32CubeIDE Download:** Official **STMicroelectronics** IDE for **STM32** microcontrollers. [STM32 Cube IDE Download](https://www.st.com/en/development-tools/stm32cubeide.html#st-get-software)
+
+---
+
 
 ## **Electrical and PCB Design**
 
