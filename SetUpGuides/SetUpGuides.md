@@ -31,4 +31,6 @@ _(This section is currently reserved for future documentation, such as PlatformI
 
 Guides related to schematic capture, PCB layout, and electronic documentation, enabling the team to design and manufacture the Baja car's electronics.
 
+> **Software onboarding note:** If you came here from the software onboarding guide, you can skip this section unless you are also working on electrical PCB design.
+
 - **[Create Altium PCB Project](CreateAltiumPCBProject.md)**: Step-by-step instructions for initiating a new Printed Circuit Board (PCB) project using **Altium Designer**, from creating a new design to generating outputs for manufacturing.
