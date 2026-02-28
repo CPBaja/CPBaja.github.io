@@ -8,8 +8,8 @@ This document serves as a comprehensive index of all setup guides, software conf
 
 These guides cover the core tools needed to interact with our repositories, codebase, and development environments. Setting up these tools correctly will ensure smooth collaboration and version control.
 
-- **[Set up GitHub Desktop](SetUpGitHubDesktop.md)**: Instructions for installing and configuring GitHub Desktop to clone and manage team repositories.
-- **[Set up VSCode](SetUpVSCode.md)**: Instructions for installing Visual Studio Code (VSCode) and configuring recommended settings and extensions for an optimal development environment.
+- **[Set up GitHub Desktop](SetUpGitHubDesktop.md)** *(Software & Electrons)*: Instructions for installing and configuring GitHub Desktop to clone and manage team repositories.
+- **[Set up VSCode](SetUpVSCode.md)** *(Software & Electrons)*: Instructions for installing Visual Studio Code (VSCode) and configuring recommended settings and extensions for an optimal development environment.
 
 ---
 
@@ -17,7 +17,7 @@ These guides cover the core tools needed to interact with our repositories, code
 
 This section includes guides specific to application-level development, such as building and managing software systems like the team website, data acquisition servers, or other related projects.
 
-- **[Set up Node.js](SetUpNodeJS.md)**: Instructions for installing and configuring the Node.js runtime, which is essential for developing JavaScript/TypeScript-based applications, servers, and tooling.
+- **[Set up Node.js](SetUpNodeJS.md)** *(Software Only)*: Instructions for installing and configuring the Node.js runtime, which is essential for developing JavaScript/TypeScript-based applications, servers, and tooling.
 
 ---
 
@@ -31,6 +31,4 @@ _(This section is currently reserved for future documentation, such as PlatformI
 
 Guides related to schematic capture, PCB layout, and electronic documentation, enabling the team to design and manufacture the Baja car's electronics.
 
-> **Software onboarding note:** If you came here from the software onboarding guide, you can skip this section unless you are also working on electrical PCB design.
-
-- **[Create Altium PCB Project](CreateAltiumPCBProject.md)**: Step-by-step instructions for initiating a new Printed Circuit Board (PCB) project using **Altium Designer**, from creating a new design to generating outputs for manufacturing.
+- **[Create Altium PCB Project](CreateAltiumPCBProject.md)** *(Electrons Only)*: Step-by-step instructions for initiating a new Printed Circuit Board (PCB) project using **Altium Designer**, from creating a new design to generating outputs for manufacturing.

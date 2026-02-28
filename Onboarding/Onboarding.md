@@ -89,8 +89,6 @@ Now it's time to configure your local machine. Head over to our comprehensive se
 
 👉 **[Setup Guides Directory](../SetUpGuides/SetUpGuides.md)**
 
-> **Note for software onboarding:** If you are following this software onboarding guide, you do **not** need to complete the Altium setup guide unless you are also doing electrical PCB design work.
-
 Before continuing, verify that the following tools are installed and running without errors:
 * **Node.js**
 * **Angular CLI**

@@ -1,5 +1,7 @@
 # Set Up GitHub Desktop for CPBaja
 
+> **Audience:** Software & Electrons
+
 This guide outlines the steps to set up **GitHub Desktop** and access the **CPBaja** repositories.
 
 ## Prerequisites
