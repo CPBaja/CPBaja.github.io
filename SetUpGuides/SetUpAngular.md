@@ -1,5 +1,7 @@
 # Set Up Angular
 
+> **Audience:** Software Only
+
 This guide covers the installation and configuration of the Angular CLI (Command Line Interface). Angular is the primary framework we use for building dynamic, single-page web applications for the team, including tools like DataVis and PartSync.
 
 ## 1. Prerequisites

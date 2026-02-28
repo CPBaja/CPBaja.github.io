@@ -1,5 +1,7 @@
 # Set Up Node.js (via Version Manager)
 
+> **Audience:** Software Only
+
 This guide covers installing Node.js and npm (Node Package Manager) on your local machine using a version manager. We highly recommend this approach as it allows you to easily switch between Node versions for different projects and completely prevents global permission errors.
 
 ## 1. Pre-installation: Remove Existing Node.js

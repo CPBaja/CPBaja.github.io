@@ -1,5 +1,7 @@
 # Setting Up an Altium PCB Project
 
+> **Audience:** Electrons Only
+
 This guide outlines the steps for creating a new PCB project within the **Cal Poly Baja** Altium 365 workspace.
 
 ---

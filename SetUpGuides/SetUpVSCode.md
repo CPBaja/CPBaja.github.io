@@ -1,5 +1,7 @@
 # Set Up Visual Studio Code (VSCode)
 
+> **Audience:** Software & Electrons
+
 This guide covers installing VSCode, configuring essential settings for a consistent development experience, installing necessary extensions, and setting up local environments.
 
 ## 1. Installation
